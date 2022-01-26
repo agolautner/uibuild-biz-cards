@@ -92,7 +92,6 @@ body {
 .bizCard h2 {
   color: #33793f;
   font-size: 48px;
-  /* font-family: EB GARAMOND; */
   font-family: "EB Garamond", serif;
   font-weight: 400;
 
@@ -102,7 +101,6 @@ body {
 .bizCard h6 {
   color: #999;
   font-size: 14px;
-  /* font-family: montserrat; */
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   letter-spacing: 0.1em;
@@ -114,13 +112,12 @@ body {
 .bizCard p {
   color: #999;
   font-size: 24px;
-  /* font-family: EB GARAMOND; */
   font-family: "EB Garamond", serif;
   font-weight: 400;
 }
 
 .bizCard p br:first-of-type {
-  display: block; /* makes it have a width */
-  content: ""; /* clears default height */
-  margin-top: 32px; /* change this to whatever height you want it */
+  display: block;
+  content: "";
+  margin-top: 32px;
 }

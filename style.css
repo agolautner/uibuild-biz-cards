@@ -116,8 +116,8 @@ body {
   font-weight: 400;
 }
 
-.bizCard p br:first-of-type {
+/* .bizCard p br:first-of-type {
   display: block;
   content: "";
   margin-top: 32px;
-}
+} */

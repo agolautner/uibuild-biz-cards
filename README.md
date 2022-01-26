@@ -1,2 +1,3 @@
-# cc-starter-template
-Starting file structure for Codecool sessions
+# ui build for codecool exam
+
+it's wednesday my dudes
